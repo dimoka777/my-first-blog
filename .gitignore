@@ -1,0 +1,7 @@
+*.рус
+*~
+__pycache__
+myvenv
+db.mysql
+/static
+.DB_Store
